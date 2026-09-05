@@ -22,6 +22,6 @@ El cientifico que invetigue fue: Carl Petri
 
 ## TP 3 - Leng. regular y Leng. indep. del contexto - Comparativo entre MT acaptable vs MT calculable
 
-- Acceso a [Maquinas de turing](https://github.com/Fabiola-Suarez/TH/blob/main/TP_3/Trabajo%Practico%3.pdf).
+- Acceso a [Maquinas de turing](https://github.com/Fabiola-Suarez/TH/blob/main/TP_3/Trabajo%20Practico%203.pdf).
 - Acceso a [Cuadro compartivo]().
 
