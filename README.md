@@ -25,6 +25,6 @@ El cientifico que invetigue fue: Carl Petri
 - Acceso a [Maquinas de turing](https://github.com/Fabiola-Suarez/TH/blob/main/TP_3/Trabajo%20Practico%203.pdf).
 - Acceso a [Cuadro compartivo](https://github.com/Fabiola-Suarez/TH/blob/main/TP_3/cuadro_comparativo.ipynb).
 
-## TP 4 - Maquinas de Turing Calculabes
+## TP 4 - Maquinas de Turing Calculables
 
--Acceso a [Maquinas de Turing]()
+-Acceso a [Maquinas de Turing](https://github.com/Fabiola-Suarez/TH/blob/main/TP_4/mtc.ipynb).
