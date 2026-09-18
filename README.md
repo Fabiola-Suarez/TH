@@ -33,4 +33,4 @@ El cientifico que invetigue fue: Carl Petri
 
 ## TP 5 - Maquinas de Turing Universal
 
--Acceso a [Maquina de Turing Universal]().
+-Acceso a [Maquina de Turing Universal](https://github.com/Fabiola-Suarez/TH/blob/main/TP_5/mtu.ipynb).
